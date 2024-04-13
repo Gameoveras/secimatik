@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Seçimatik",
+    "slug": "secim",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/secim2.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/secim2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.uzmanadam.secim"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/secim2.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.uzmanadam.secim"
+    },
+    "web": {
+      "favicon": "./assets/secim2.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "889869b1-2c68-49f3-9100-de03fc46603d"
+      }
+    }
+  }
+}
